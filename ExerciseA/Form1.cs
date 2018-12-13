@@ -15,6 +15,7 @@ namespace ExerciseA
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("prueba");
         }
     }
 }
